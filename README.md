@@ -1,1 +1,1 @@
-# Praktika
+Tai yra Coursera "Interactivity with JavaScript" kurso užduotis, kai yra duoti HTML ir CSS failai. Reikia parašyti JavaScript kodą taip, kad HTML faile užvedus pelę ant mažos nuotraukos apačioje, nuotrauka ir jos pavadinimas atsirastų didesniame lange.
